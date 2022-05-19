@@ -1,0 +1,8 @@
+C:\Users\MariO\Desktop\Programowanie apk\Programowanie apk\Programowanie apk\bin\Debug\Programowanie apk.exe
+C:\Users\MariO\Desktop\Programowanie apk\Programowanie apk\Programowanie apk\bin\Debug\Programowanie apk.pdb
+C:\Users\MariO\Desktop\Programowanie apk\Programowanie apk\Programowanie apk\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\MariO\Desktop\Programowanie apk\Programowanie apk\Programowanie apk\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\MariO\Desktop\Programowanie apk\Programowanie apk\Programowanie apk\obj\x86\Debug\Programowanie apk.csproj.GenerateResource.Cache
+C:\Users\MariO\Desktop\Programowanie apk\Programowanie apk\Programowanie apk\obj\x86\Debug\Programowanie apk.exe
+C:\Users\MariO\Desktop\Programowanie apk\Programowanie apk\Programowanie apk\obj\x86\Debug\Programowanie apk.pdb
+C:\Users\MariO\Desktop\Programowanie apk\Programowanie apk\Programowanie apk\obj\x86\Debug\Programowanie apk.csprojResolveAssemblyReference.cache
